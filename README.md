@@ -47,3 +47,4 @@ Written in Java SE-12.
 
 9 2 8 0 0 0 0 6 0
 
+2. Change the file static field String to the name of whichever file you would like to read.
