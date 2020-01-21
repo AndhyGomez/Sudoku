@@ -17,14 +17,14 @@ Written in Java SE-12.
 3. A) Windows
      * Open Command Prompt
      * cd ctrl + v (Redirects you to src folder.)
-     * javac Main.java
-     * java Main
+     * javac Game.java
+     * java Game *fileName*
      
    B) MacOs
      * Open Terminal
      * cd cmd + v (Redirects you to src folder.)
      * javac Main.java
-     * java Main
+     * java Game *fileName*
  
 ## Note: 
 1. File to be read must be outside of src folder and must have the format seen below.
@@ -47,4 +47,4 @@ Written in Java SE-12.
 
 9 2 8 0 0 0 0 6 0
 
-2. Change the file static field String to the name of whichever file you would like to read.
+2. Change the fileName to the name of whichever file you would like to read, it is passed as an argument to main.
