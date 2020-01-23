@@ -1,4 +1,4 @@
-# SudokuSolver
+# Sudoku Solver
 
 (Work in progress)
 
